@@ -1,0 +1,7 @@
+Ac-Gly-NH2-in-octanol/lambda-OPES-AFED/replicate-2/output.csv filter=lfs diff=lfs merge=lfs -text
+Ac-Gly-NH2-in-octanol/lambda-OPES-AFED/replicate-3/output.csv filter=lfs diff=lfs merge=lfs -text
+Ac-Gly-NH2-in-octanol/lambda-OPES-AFED/replicate-1/output.csv filter=lfs diff=lfs merge=lfs -text
+Ac-Gly-NH2-in-octanol/lambda-OPES/replicate-2/output.csv filter=lfs diff=lfs merge=lfs -text
+quinone-in-water/lambda-REX/replicate-2/rex_lambda_cv_checkpoint.nc filter=lfs diff=lfs merge=lfs -text
+quinone-in-water/lambda-REX/replicate-3/rex_lambda_cv_checkpoint.nc filter=lfs diff=lfs merge=lfs -text
+quinone-in-water/lambda-REX/replicate-1/rex_lambda_cv_checkpoint.nc filter=lfs diff=lfs merge=lfs -text
