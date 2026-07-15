@@ -28,7 +28,5 @@ The sampling protocols include λ-AFED, λ-OPES-Explore, λ-OPES, λ-OPES-d-AFED
 │
 ├── gro-files/
 ├── top-files/
-├── .gitattributes
-├── .gitignore
 └── README.md
 
