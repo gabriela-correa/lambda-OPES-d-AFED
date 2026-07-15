@@ -11,7 +11,7 @@ The repository provides input files, simulation scripts, selected simulation out
 - **N-acetylglycinamide (Ac-Gly-NH₂) in octanol**;
 - **quinone in water**.
 
-The sampling protocols include λ-dAFED, λ-OPES-Explore, λ-OPES, λ-OPES-d-AFED, and Hamiltonian replica exchange (REX). Calculations are organized into three independent replicates.
+The sampling protocols include λ-AFED, λ-OPES-Explore, λ-OPES, λ-OPES-d-AFED, and Hamiltonian replica exchange (REX). Calculations are organized into three independent replicates.
 
 ## Repository structure
 
