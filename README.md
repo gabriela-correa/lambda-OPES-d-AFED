@@ -40,21 +40,21 @@ Contains simulations and analyses for N-acetylglycinamide in octanol using:
 - lambda-OPES-AFED: λ-OPES-d-AFED calculations;
 - lambda-OPES: λ-OPES calculations without the additional d-AFED coordinate.
 
-### Quinone in water
+### quinone-in-water
 
 Contains simulations and analyses for quinone in water using:
 
-- lambda-AFED: λ-dAFED calculations;
+- lambda-AFED: λ-AFED calculations;
 - lambda-REX: HREX reference calculations;
-- lambda-OPES-Explore: calculations using an OPES-Explore bias;
-- lambda-OPES: calculations using the complete λ-OPES protocol.
+- lambda-OPES-Explore: using an OPES-Explore bias;
+- lambda-OPES: using the complete λ-OPES protocol.
 
 Selected quinone calculations also examine the effect of the fictitious mass assigned to the λ coordinate.
 
 ### gro-files
 
-Contains molecular structures and initial configurations used to construct the simulation systems.
+Contains molecular structures and initial configurations.
 
 ### top-files
 
-Contains molecular topologies, force-field parameters, and solvent definitions used in the simulations.
+Contains molecular topologies, force field parameters, and solvent definitions.
